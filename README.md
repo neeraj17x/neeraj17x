@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Neeraj  
 
-💻 Backend Developer | Java | Spring Boot | MySQL | PHP (CakePHP)  
+💻 Backend Developer | Java | Spring Boot | MySQL | PHP (Laravel/CakePHP)  
 
 ---
 
