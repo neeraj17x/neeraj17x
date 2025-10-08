@@ -21,7 +21,7 @@ I’m currently focusing on transitioning into **Java/Spring Boot-focused backen
 
 ## 🛠️ Tech Stack
 - **Languages:** Java, PHP, SQL  
-- **Frameworks:** Spring Boot, Spring Security, Hibernate, CakePHP  
+- **Frameworks:** Spring Boot, Spring Security, Hibernate, CakePHP, Laravel  
 - **Databases:** MySQL  
 - **Tools & Platforms:** Git (Bitbucket/GitHub), Postman, Maven, JIRA  
 - **Other:** REST APIs, Microservices, LAMP/WAMP stacks  
